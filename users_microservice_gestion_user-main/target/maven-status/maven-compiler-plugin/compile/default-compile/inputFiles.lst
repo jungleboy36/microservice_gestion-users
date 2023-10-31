@@ -1,0 +1,16 @@
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\security\JWTAuthenticationFilter.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\entities\Role.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\entities\User.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\restControllers\UserRestController.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\MicrosserviceApplication.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\Repos\UserRepository.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\service\MailService.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\security\MyUserDetailsService.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\security\SecParams.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\service\UserService.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\security\JWTAuthorizationFilter.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\restControllers\MailController.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\security\SecurityConfig.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\Repos\RoleRepository.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\service\UserServiceImpl.java
+C:\Users\msi\Desktop\microservice\SrpringMailConfugiration\src\main\java\com\taha\microsservice\config\MailConfig.java

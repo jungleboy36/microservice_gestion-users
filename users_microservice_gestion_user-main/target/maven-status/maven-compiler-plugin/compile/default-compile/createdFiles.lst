@@ -1,0 +1,17 @@
+com\taha\microsservice\security\SecurityConfig.class
+com\taha\microsservice\service\UserService.class
+com\taha\microsservice\entities\Role.class
+com\taha\microsservice\service\UserServiceImpl.class
+com\taha\microsservice\MicrosserviceApplication.class
+com\taha\microsservice\security\MyUserDetailsService.class
+com\taha\microsservice\Repos\RoleRepository.class
+com\taha\microsservice\restControllers\UserRestController.class
+com\taha\microsservice\Repos\UserRepository.class
+com\taha\microsservice\security\JWTAuthorizationFilter.class
+com\taha\microsservice\restControllers\MailController.class
+com\taha\microsservice\entities\User.class
+com\taha\microsservice\service\MailService.class
+com\taha\microsservice\config\MailConfig.class
+com\taha\microsservice\security\JWTAuthenticationFilter.class
+com\taha\microsservice\security\SecParams.class
+com\taha\microsservice\security\SecurityConfig$1.class
